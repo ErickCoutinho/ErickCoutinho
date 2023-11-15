@@ -1,4 +1,4 @@
-Olá, Meu nome é Erick Coutinho!
+👋 Olá, Meu nome é Erick Coutinho!
 
 <div align="center">
   <a href="https://https://github.com/ErickCoutinho">
