@@ -1,5 +1,5 @@
 👋 Olá, Meu nome é Erick Coutinho!
-
+Atualmente sou desenvolvedor de IA na NUVEN (Núcleo de Visão Computacional e Engenharia) com foco em Visão Computacional e Analista de BI na Triumf Agency.
 
 
 
@@ -18,21 +18,6 @@
 </div>
 <br>
 <br>
-Cursando Ciência de Dados - UFC
-Técnico em Contabilidade - Escola Estadual de Educação Profissional Adriano Nobre
-
-🖥 Habilidades
-• Python
-• Contabilidade
-• Estatística
-• SQL
-• GitHub
-• Excel (Intermediário - Avançado)
-• Power BI
-• Estatística/Matemática: Scipy
-• Manipulação de dados: Pandas, Numpy
-• Visualização de dados: Matplotlib e Seaborn
-• Machine Learning: Scikit-learn
 
 
 
