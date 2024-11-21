@@ -3,6 +3,7 @@
 <br>
 Sou desenvolvedor de Inteligência Artificial no NUVEN (Núcleo de Visão Computacional e Engenharia), especializado em Visão Computacional. Paralelamente, atuo como Analista de Business Intelligence na Agência Triumf.
 
+<br>
 
 
 <div align="center">
