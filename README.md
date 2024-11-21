@@ -1,5 +1,6 @@
 👋 Olá, Meu nome é Erick Coutinho!
 <br>
+<br>
 Atualmente sou desenvolvedor de IA na NUVEN (Núcleo de Visão Computacional e Engenharia) com foco em Visão Computacional e Analista de BI na Triumf Agency.
 
 
