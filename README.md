@@ -1,15 +1,19 @@
-👋 Olá, Meu nome é Erick Coutinho!
-<br>
-<br>
-Sou desenvolvedor de Inteligência Artificial no NUVEN (Núcleo de Visão Computacional e Engenharia), especializado em Visão Computacional. Paralelamente, atuo como Analista de Business Intelligence na Agência Triumf.
+## 👋 Olá, Meu nome é Erick Coutinho!  
 
-<br>
+Sou desenvolvedor de Inteligência Artificial no **NUVEN** (Núcleo de Visão Computacional e Engenharia), especializado em **Visão Computacional**.  
+Paralelamente, atuo como **Analista de Business Intelligence** na **Agência Triumf**.
 
+---
+
+### 🚀 **GitHub**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickCoutinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickCoutinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://gh-readme-stats.vercel.app/api?username=ErickCoutinho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="stats graph"  />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs?username=ErickCoutinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph"  />
 </div>
 
+---
+
+### 🛠 **Tecnologias e Ferramentas**
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -19,7 +23,10 @@ Sou desenvolvedor de Inteligência Artificial no NUVEN (Núcleo de Visão Comput
   <img align="center" alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
 
+---
 
+### 📫 **Como me encontrar**
+📧 **E-mail:** [erickrcoutinho974@gmail.com](mailto:seu-email@email.com)  
+💼 **LinkedIn:** [[linkedin.com/in/seuperfil](https://www.linkedin.com/in/erick-coutinho-07a1111a9/)](https://www.linkedin.com/in/seuperfil)  
 
-
-
+---
