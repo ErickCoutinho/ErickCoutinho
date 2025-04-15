@@ -27,6 +27,6 @@ Paralelamente, atuo como **Analista de Business Intelligence** na **Agência Tri
 
 ### 📫 **Como me encontrar**
 📧 **E-mail:** [erickrcoutinho974@gmail.com](mailto:seu-email@email.com)  
-💼 **LinkedIn:** [(https://www.linkedin.com/in/erick-coutinho-07a1111a9/)](https://www.linkedin.com/in/seuperfil)  
+💼 **LinkedIn:** [(https://www.linkedin.com/in/erick-coutinho-07a1111a9//)](https://www.linkedin.com/in/seuperfil)  
 
 ---
