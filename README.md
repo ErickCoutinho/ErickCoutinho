@@ -1,7 +1,6 @@
 ## 👋 Olá, Meu nome é Erick Coutinho!  
 
-Sou desenvolvedor de Inteligência Artificial no **NUVEN** (Núcleo de Visão Computacional e Engenharia), focado em **Visão Computacional**.  
-Paralelamente, atuo como **Analista de Business Intelligence** na **Agência Triumf**.
+Desenvolvedor Python
 
 ---
 
