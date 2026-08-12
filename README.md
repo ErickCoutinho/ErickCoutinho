@@ -1,10 +1,10 @@
-## 👋 Olá, Meu nome é Erick Coutinho!
+## Olá, Meu nome é Erick Coutinho!
 
-Desenvolvedor Python
+Desenvolvedor Python e Cientista de Dados.
 
 ---
 
-### 🚀 **GitHub**
+### **GitHub**
 
 <div align="center">
   <img 
